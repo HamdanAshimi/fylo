@@ -3,6 +3,7 @@ import Header from "./components/Header";
 import Hero from "./components/Hero";
 import Productive from "./components/Productive";
 import Testimonials from "./components/Testimonials";
+import EarlyAccess from "./components/EarlyAccess";
 
 function App() {
   return (
@@ -12,6 +13,7 @@ function App() {
       <Features />
       <Productive />
       <Testimonials />
+      <EarlyAccess />
     </>
   );
 }
