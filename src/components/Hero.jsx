@@ -1,3 +1,5 @@
+import fyloIllustration from "../assets/images/illustration-intro.png";
+
 export default function Hero() {
   return (
     <section
@@ -6,7 +8,7 @@ export default function Hero() {
     >
       <div className="container mx-auto px-6 pb-52 text-center md:pt-20">
         <img
-          src="/src/assets/images/illustration-intro.png"
+          src={fyloIllustration}
           alt="Fylo illustration"
           className="mx-auto"
         />
