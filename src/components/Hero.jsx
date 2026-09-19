@@ -1,5 +1,4 @@
-import fyloIllustration from "../assets/images/illustration-intro.png";
-
+import fyloIllustration from "../src/assets/images/illustration-intro.png";
 export default function Hero() {
   return (
     <section
