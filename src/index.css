@@ -20,8 +20,8 @@
   /* Background images */
   --background-image-logo-dark-mode: url("../src/assets/images/logo-dark-mode.svg");
   --background-image-logo-light-mode: url("../src/assets/images/logo-light-mode.svg");
-  --background-image-curvy-dark-mode: url("../src/images/bg-curvy-dark-mode.svg");
-  --background-image-curvy-light-mode: url("../src/images/bg-curvy-light-mode.svg");
+  --background-image-curvy-dark-mode: url("../src/assets/images/bg-curvy-dark-mode.svg");
+  --background-image-curvy-light-mode: url("../src/assets/images/bg-curvy-light-mode.svg");
 }
 
 html {
