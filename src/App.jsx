@@ -4,6 +4,7 @@ import Hero from "./components/Hero";
 import Productive from "./components/Productive";
 import Testimonials from "./components/Testimonials";
 import EarlyAccess from "./components/EarlyAccess";
+import Footer from "./components/Footer";
 
 function App() {
   return (
@@ -14,6 +15,7 @@ function App() {
       <Productive />
       <Testimonials />
       <EarlyAccess />
+      <Footer />
     </>
   );
 }
